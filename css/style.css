@@ -1,0 +1,217 @@
+.header {
+    padding: 20px 20px 100px 20px;
+    text-align: center;
+}
+
+body {
+    margin: 150px 0px 100px 0px;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+p {
+      font-family: gopher, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 14px;
+    letter-spacing: 0.25px;
+}
+
+h1 {
+    font-family: gopher, sans-serif;
+font-weight: 700;
+font-style: normal;
+    letter-spacing: 3px;
+}
+
+h2 {
+    font-family: gopher, sans-serif;
+font-weight: 700;
+font-style: normal;
+    letter-spacing: 2px;
+}
+
+h3 {
+    font-family: gopher, sans-serif;
+font-weight: 400;
+font-style: italic;
+}
+
+table {
+    font-family: gopher, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: rosybrown;
+}
+
+.whatis {
+    background-color: #25574a;
+    padding: 30px 100px;
+    height: 450px;
+    color: white;
+}
+
+.whatisp {
+    float: left;
+    width: 350px;
+}
+
+.whatisimg {
+    width: 400px;
+    position: absolute;
+    padding-left: 30px;
+    margin-top: 20px;
+}
+
+.tax {
+    padding: 30px 100px;
+    height: 225px;
+}
+
+#famtreehead {
+    letter-spacing: 1.5px; 
+}
+
+#tax {
+   letter-spacing: 0.25px;
+    text-align: center;
+}
+
+th {
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    vertical-align:top;
+}
+
+.biology {
+    background-color: #25574a;
+    color: white;
+    padding: 30px 100px;
+    height: 1150px;
+}
+
+.bioinfo {
+    width: 250px;
+    position: absolute;
+}
+
+.biotable{
+    margin-left: 300px;
+    padding: 40px;
+    background-color: #93c189;
+    color: #25574a;
+    letter-spacing: 0.25px;
+    width: 500px;
+    position: static;
+    margin-top: 35px;
+}
+
+#biotablehead {
+    letter-spacing: 2px; 
+}
+
+.bioimg {
+    width: 150px;
+    margin: 10px;
+}
+
+.polaroid {
+    width: 170px;
+    height: 230px;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.unusual {
+    width: 600px;
+    align-content: center;
+}
+
+.ecology {
+    background-color: #93c189;
+    padding: 20px;
+    padding: 30px 100px;
+    height: 750px;
+    color: #25574a;
+}
+
+.ecop {
+    width: 300px;
+    position: absolute;
+}
+
+.ecoimg {
+    width: 450px;
+    float: right;
+    margin-top: 15px;
+}
+
+.mapcode {
+    background-color: white;
+    padding: 10px;
+}
+
+.behaviorimg {
+    position: absolute;
+    margin-top: 90px;
+}
+
+.behaviorheading {
+    margin-left: 400px;
+}
+
+.behaviorp {
+    width: 400px;
+    float: right;
+}
+
+.behavior{
+    padding: 30px 100px;
+    height: 500px;
+}
+
+.relationship {
+    background-color: #25574a;
+    color: white;
+     padding: 30px 100px;
+    height: 400px;
+}
+
+.relationshipp {
+    width: 300px;
+    position: absolute;
+}
+
+.videowrapper {
+    width: 450px;
+    margin-left: 350px;
+    padding-top: 15px;
+}
+
+.footer {
+    padding: 100px 100px;
+    font-family: gopher, sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 16px;
+    letter-spacing: 2px;
+    text-align: center;
+}
